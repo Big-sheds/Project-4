@@ -350,7 +350,7 @@ It will return an HTML page, it is hardly readable in the CLI, but we can also t
 
 But first, we have to open TCp port 3300 in our AWS Web Console for your EC2 Instance.
 
-![](Images-4\Images-4.1.jpg)
+![NGINX Status](./Images-4/Images-4.1.jpg)
 
 Now you can access our Book Register web application from the Internet with a browser using Public IP address or Public DNS name.
 
@@ -366,7 +366,7 @@ for Public DNS name.
 
 **This is how your Web Book Register Application will look like in browser:**
 
-![](Images-4\Images-4.2.jpg)
+![NGINX Status](./Images-4/Images-4.2.jpg)
 
 
 
